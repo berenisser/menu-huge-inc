@@ -191,8 +191,8 @@ nav.header-in {
 }
 
 nav.solid #logo .logo{
-	background-image: url();
-	background-size: ;
+	background-image: url(../images/huge_white.png);
+	background-size: 81px 38px;
 }
 
 .overflow-hidden{
