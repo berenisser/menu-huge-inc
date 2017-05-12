@@ -155,6 +155,7 @@ nav ul li a{
 	padding: 8px 0 0;
 	letter-spacing: -0.06em;
 }
+
 nav ul li a:hover{
 	color: #ec008c;
 	background-color: white;
@@ -168,6 +169,7 @@ nav.open ul{
 	visibility: visible;
 	transform: perspective(600px) rotateX(0deg);
 }
+
 nav.open ul li{
 	color: #fff;
 	font-size: 60px;
@@ -186,4 +188,13 @@ nav.header-in {
 }
 .solid #toggle .menu:before{
 	background-color: #fff;
+}
+
+nav.solid #logo .logo{
+	background-image: url();
+	background-size: ;
+}
+
+.overflow-hidden{
+	overflow:hidden;
 }
