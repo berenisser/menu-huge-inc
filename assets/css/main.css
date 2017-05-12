@@ -48,7 +48,7 @@ nav {
 	transition: all 0.3s; 
 }
 
-#toggle{
+/*#toggle{
 	width: 104px;
 	height: 74px;
 	padding: 45px 40px;
@@ -59,7 +59,7 @@ nav {
 	position: absolute;
 	top: 0;
 	right: 0;
-}
+}*/
 
 .menu:before, 
 .menu:after{
